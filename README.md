@@ -1,2 +1,2 @@
 # ANN_MachineLearning
-Projects and Assignments for Artificial Neural Networks
+Artificial Neural Networks projects
